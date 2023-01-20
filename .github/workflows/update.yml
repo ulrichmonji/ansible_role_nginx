@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: retrieve collection code and update submodule
         run: |
-          git clone https://github.com/ulrichmonji/ansible-collection_webapp.git
+          git clone https://github.com/ulrichmonji/ansible-collection-webapp.git
           cd ansible-collection_webapp
           git submodule update --init --recursive
           cd roles/nginx
