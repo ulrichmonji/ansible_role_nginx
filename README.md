@@ -1,5 +1,5 @@
 [![CI](https://github.com/ulrichmonji/ansible-role_nginx/workflows/CI/badge.svg?event=push)](https://github.com/ulrichmonji/ansible-role_nginx/actions?query=workflow%3ACI)
-Role Name
+Role nginx
 =========
 
 A brief description of the role goes here.
